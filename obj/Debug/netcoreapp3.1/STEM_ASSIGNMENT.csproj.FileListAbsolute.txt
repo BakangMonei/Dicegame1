@@ -1,0 +1,4 @@
+C:\Users\cse20-018\Desktop\Dice game\obj\Debug\netcoreapp3.1\STEM_ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cse20-018\Desktop\Dice game\obj\Debug\netcoreapp3.1\STEM_ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\cse20-018\Desktop\Dice game\obj\Debug\netcoreapp3.1\STEM_ASSIGNMENT.AssemblyInfo.cs
+C:\Users\cse20-018\Desktop\Dice game\obj\Debug\netcoreapp3.1\STEM_ASSIGNMENT.csproj.CoreCompileInputs.cache
